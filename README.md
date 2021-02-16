@@ -13,3 +13,6 @@
      alt="Controls"
       width="50%"
      style="float: left; margin: 12px;" />
+
+## Donate
+   Donate with bitcoin: 3CmN4b7wzgVjD8pE1tfqTAuEEJkHbdH4Sc
